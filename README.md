@@ -1,4 +1,4 @@
-# 🛒 Shopping Cart Demo
+# 🛒 Shopping Cart 
 
 A simple and colorful shopping cart web application built using **HTML, CSS, and JavaScript**.  
 This project demonstrates core front‑end skills such as DOM manipulation, event handling, responsive design, and local storage.
